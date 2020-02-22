@@ -1,4 +1,6 @@
-# Two Hundred Years of Dress-up Games: Gender Socialization in Gaze
+# Two Hundred Years of Dress-up Games: Gender Socialization in Gaze 
+
+Huang Jiying
 
 中文缩写版发布于新闻实验室 2019.12.10
 
@@ -18,9 +20,9 @@ In 1810, the British toy company S & J Fuller and the children's book publisher 
 
 For example, Fanny, who was born in the upper class, finally took off the "holding toy" suit and put on the "holding book" suit under the setting of the storyline——this is what the upper class expects of women. While Little Henry, according to the adventures in the story, put on different uniforms to meet the challenge and conquer. The picture below is the electronic version of the paper doll. We can easily see the distinct differences between men's and women's clothing and the role expectations behind the clothing. As pointed out in Functional sex role theory, There is a set of gender norms associated with each role. The Male role is instrumental. Society expects them to comply with normative standards. They expected to be active and aggressive; while the female role is always expressive, they tend to be emotional, often passive, and be defined as helpmates or subordinates.
 
-![image-20200222124249818](C:\Users\DELL\AppData\Roaming\Typora\typora-user-images\image-20200222124249818.png)
+<img src="https://mmbiz.qpic.cn/mmbiz_jpg/icVl7FlsXvFMJJRA08ZHQFPHjwt1RQSDUmw3fpicPcsiawOq0MkOWNrBGm4alexI6ktNO8lrQwRt7CpeFZGib75hibg/640?wx_fmt=jpeg&amp;tp=webp&amp;wxfrom=5&amp;wx_lazy=1&amp;wx_co=1" alt="img"  />
 
-![image-20200222124431216](C:\Users\DELL\AppData\Roaming\Typora\typora-user-images\image-20200222124431216.png)
+<img src="https://mmbiz.qpic.cn/mmbiz_jpg/icVl7FlsXvFMJJRA08ZHQFPHjwt1RQSDUqqZ42jev1I3DBeGwpRoo2zndETYTicVVlAwY5AgrR8v72072otgHmqQ/640?wx_fmt=jpeg&amp;tp=webp&amp;wxfrom=5&amp;wx_lazy=1&amp;wx_co=1" alt="img"  />
 
 > Image source: https://library.unt.edu/rarebooks/exhibits/popup2/fuller.htm
 > At that time, young people in high society were the target of publishers. These expensive books were used as education and entertainment as a tool for young people to accept mainstream values and socialize.
@@ -31,7 +33,7 @@ Second, the "model" is another important mechanism. Whether the characters in th
 
 As a result, the moral story in the text is strengthened by the visual impact of the paper doll toy. It perfectly integrates education and recreation and conveys to children the identity, social status, and values recognized by mainstream society. Clothing simply and clearly indicates "the road to success" defined by society, along with what is accepted or excluded under their gender characteristics. In the continuous dress-up, the norms expected by society are gradually internalized and become the goals and dreams which children pursue in the future. It is also from this time, dress-up games have changed from the pastime of aristocratic adults to exclusive games for aristocratic children. The "simple and naive" impression of such games has always affected our attitude towards dress-up games even nowadays.
 
-![image-20200222124508913](C:\Users\DELL\AppData\Roaming\Typora\typora-user-images\image-20200222124508913.png)
+![img](https://mmbiz.qpic.cn/mmbiz_jpg/icVl7FlsXvFMJJRA08ZHQFPHjwt1RQSDUgkibEsDmoqeOYib0x2ECqwFmFNpUB59vOKibjFuIFho4O4BmYfzf9szaw/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
 
 > Source: National Women's History Museum
 > By the 1880s, paper dolls began to find their way into households as an affordable game. At this time, it not only served the upper class but also carried more social functions. Paper doll work at this stage left much information about women's fashion.
@@ -41,6 +43,8 @@ As a result, the moral story in the text is strengthened by the visual impact of
 In the 1930s, the advent of Barbie has pushed paper dolls, famous for more than half a century, out of the market. This legendary image has become the most widely known and best-selling symbol of the century. For what is "beauty", philosophers and aestheticians of all ages may not be able to give a clear answer. However, for what is "beautiful women," Barbie has constructed a certain ideal type. This certainty was dismantled into a delicate face, a slender neck, a smooth white chest, a straight buttock, a long straight leg, and a sleek foot. It has precise requirements for every inch of the body.
 
 At this time, we should notice that, unlike the period of paper dolls, in this carnival in pursuit of body "beauty," the male dress-up role is missing. The initial setting of single-gender made Barbie a daughter country, and the recreation and education under the dressing have since become exclusive to women.
+
+![img](https://mmbiz.qpic.cn/mmbiz_jpg/icVl7FlsXvFMJJRA08ZHQFPHjwt1RQSDUzKuyFyiaoBd5MpB1K0Pibd4gDcvI4E1xwR1iaWbj1HgDkjDzcKW7vnIcw/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
 
 Barbie focused its attention on women and implemented its discipline on women's bodies, which was more publicity and violence than paper dolls. Under the slogan "I can be ..." promoted by Barbie, it is difficult for us to regard this little doll as a child's playmate, or a weak baby who needs to be taken care of. On the contrary, Barbie is an imagination of adult women, an object worth emulating and a role model for girls. It is an powerful "I can be" doll, controlling women's perceptions of what is "feminine beauty" and what is "ideal" from an early age. 
 
@@ -64,9 +68,9 @@ Let us look back at these electronic dress-up games. We will find that whether Q
 
 Let us take "Taobao Life" as an example. When entering the system for the first time, players need to choose their gender: boy or girl. Without changing genders, girls cannot choose clothes for boys' suits, nor can they make gestures for male players, and vice versa. It is worth noting that the game uses "boy / girl" instead of "men / women" or "male / female" to refer to gender, which not only confirms the subconsciousness of "naive" dress-up games but also works exceptionally well in the context of disciplining women.
 
-![image-20200222124602679](C:\Users\DELL\AppData\Roaming\Typora\typora-user-images\image-20200222124602679.png)
+<img src="https://mmbiz.qpic.cn/mmbiz_jpg/icVl7FlsXvFMJJRA08ZHQFPHjwt1RQSDU7oc01eENEicOb7oHNxM7dtYjXFdqkUN1iaDxBdiapVur2criaa61ALQLTg/640?wx_fmt=jpeg&amp;tp=webp&amp;wxfrom=5&amp;wx_lazy=1&amp;wx_co=1" alt="img" style="zoom:50%;" />
 
-![image-20200222124630370](C:\Users\DELL\AppData\Roaming\Typora\typora-user-images\image-20200222124630370.png)
+<img src="https://mmbiz.qpic.cn/mmbiz_jpg/icVl7FlsXvFMJJRA08ZHQFPHjwt1RQSDUz91cO7oEjp1Bf3bH6NGPyOChXicXQnCC0SZOkICAKWPibyFap33IorhA/640?wx_fmt=jpeg&amp;tp=webp&amp;wxfrom=5&amp;wx_lazy=1&amp;wx_co=1" alt="img" style="zoom:50%;" />
 
 "Doing gender" considers gender as a social construct rather than an innate physiological factor, and emphasizes attention to people's daily interactions and the underlying rules. Drawing on this concept, under the setting of Taobao's life, the gender discipline of women can be regarded as "being a girl". For women, they should always maintain a young, ignorance, and pretty. In the game, 28 girls' unique gestures include "shyness," "heart-to-heart," and "Liang Xiang(亮相)." Almost every action can be disassembled into four significant elements: LanHuaZhi(兰花指), tilting head, tiptoe or jumping, and twisting the body into an S shape. No matter what the woman wears, these actions make the woman instantly become a girl under the age of 18, which wipes out the professionalism, maturity, and other diversified temperaments associated initially with clothing.
 
@@ -93,8 +97,6 @@ In 1998, Justine Cassell proposed five "feminist game programming strategies." S
 "encourage collaboration among users." ([Cassell, 1998](https://www.sciencedirect.com/science/article/pii/S8755461515000729?via%3Dihub#bib0055), pp. 304-305)
 
 We can imagine that if these strategies are properly implemented, then we can at least see a non-gendered game world. Players in this world have the freedom to create their own chosen role; diversity and other experiences are respected; men and women do not need to be in a dualistic ecosystem, and strengthen their discipline to confirm their existence; Women will practice and benefit from identities in games, and may combine bravery and rationality into their real practice; men will also have the opportunity to break the hegemonic masculinity and redefine a more inclusive masculinity.
-
-
 
 
 
