@@ -3,7 +3,7 @@
 
 ## Opinions 
 
-[2020-4-26 九秩漢學家畢仰高 比較中俄革命教訓](https://www.master-insight.com/%E4%B9%9D%E5%8D%81%E7%89%B9%E8%BC%AF%E3%83%BB%E7%95%A2%E4%BB%B0%E9%AB%98%E5%92%8C%E4%BB%96%E7%9A%84%E4%B8%AD%E5%9C%8B/)
+[2020-04-26 九秩漢學家畢仰高 比較中俄革命教訓](https://www.master-insight.com/%E4%B9%9D%E5%8D%81%E7%89%B9%E8%BC%AF%E3%83%BB%E7%95%A2%E4%BB%B0%E9%AB%98%E5%92%8C%E4%BB%96%E7%9A%84%E4%B8%AD%E5%9C%8B/)
 
 
 [2019-12-10 Two Hundred Years of Dress-up Games: Gender Socialization in Gaze](https://github.com/Jeannyhuang/myworks/blob/master/Essay-20191210-Three%20Hundred%20Years%20of%20Dressup%20Games-%20Gender%20Socialization%20in%20Gaze.md)
