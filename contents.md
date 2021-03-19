@@ -1,9 +1,13 @@
 # Writing samples
 
-## Recent Essay
-[2019-12-10 Two Hundred Years of Dress-up Games: Gender Socialization in Gaze](https://github.com/Jeannyhuang/myworks/blob/master/Essay-20191210-Three%20Hundred%20Years%20of%20Dressup%20Games-%20Gender%20Socialization%20in%20Gaze.md)
 
 ## Opinions 
+
+[2020-4-26 九秩漢學家畢仰高 比較中俄革命教訓](https://www.master-insight.com/%E4%B9%9D%E5%8D%81%E7%89%B9%E8%BC%AF%E3%83%BB%E7%95%A2%E4%BB%B0%E9%AB%98%E5%92%8C%E4%BB%96%E7%9A%84%E4%B8%AD%E5%9C%8B/)
+
+
+[2019-12-10 Two Hundred Years of Dress-up Games: Gender Socialization in Gaze](https://github.com/Jeannyhuang/myworks/blob/master/Essay-20191210-Three%20Hundred%20Years%20of%20Dressup%20Games-%20Gender%20Socialization%20in%20Gaze.md)
+
 [2019-12-10 从QQ秀到淘宝人生：我们是怎样理所当然地为女孩穿上裙子的？](https://newslab2020.github.io/Collection/%E4%BA%92%E8%81%94%E7%BD%91%E8%A7%82%E5%AF%9F/%5B%E6%96%B0%E9%97%BB%E5%AE%9E%E9%AA%8C%E5%AE%A4%5D%20-%202019-12-10%20%E4%BB%8EQQ%E7%A7%80%E5%88%B0%E6%B7%98%E5%AE%9D%E4%BA%BA%E7%94%9F%EF%BC%9A%E6%88%91%E4%BB%AC%E6%98%AF%E6%80%8E%E6%A0%B7%E7%90%86%E6%89%80%E5%BD%93%E7%84%B6%E5%9C%B0%E4%B8%BA%E5%A5%B3%E5%AD%A9%E7%A9%BF%E4%B8%8A%E8%A3%99%E5%AD%90%E7%9A%84%EF%BC%9F.html)
 
 [2018-10-02 《1818黄金眼》停播风波背后的媒体生态](https://github.com/Jeannyhuang/myworks/blob/master/%E6%96%B0%E9%97%BB%E5%AE%9E%E9%AA%8C%E5%AE%A4%E3%80%90%E5%88%86%E6%9E%90%E3%80%91%2020181002%20%E3%80%8A1818%E9%BB%84%E9%87%91%E7%9C%BC%E3%80%8B%E5%81%9C%E6%92%AD%E9%A3%8E%E6%B3%A2%E8%83%8C%E5%90%8E%E7%9A%84%E5%AA%92%E4%BD%93%E7%94%9F%E6%80%81.md)
